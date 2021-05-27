@@ -184,6 +184,7 @@ img{
 }
 /*Footer*/
 .redesContent{
+    background-color: gray;
     margin: 0px 5px 0px 5px;
     display: flex;
     flex: row wrap;
